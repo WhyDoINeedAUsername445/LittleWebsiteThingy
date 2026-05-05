@@ -1,0 +1,50 @@
+<style>
+  .section1{
+    background-color: black;
+    color: lime;
+  }
+  .section2{
+    background-color: blue;
+    color: white;
+  }
+ .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    gap: 20px;
+  }
+
+
+<style>
+  .section1{
+    background-color: black;
+    color: lime;
+  }
+ .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    gap: 20px;
+  }
+
+</style>
+<div class="section1"
+     <h1>Goodbye, Ms. Abby</h1>
+     
+<a href="https://www.apprhythm.com/">You should check out this website too</a>
+     <h2>We'll miss you...</h2>
+     <p>Ya know, this is the first website I made with real code. It's fun to make. Not the first project I've made with code, of course, just my first website made with code.</p>
+     <h3>BUT WE'RE GETTING OFF TOPIC</h3>
+     <p>You're a great teacher :)</p>
+<p>I've enjoyed having you teach me, and everyone else has too. It's been a great time.</p>
+</div>
+<div class="container">
+  <div class="section2">
+  <p>Wow, I added some structure to this website!!! It no longer looks like a 1990 government website!!! Oh wait, I'm getting distracted again. I have the attention span of... something with a really short attention span.</p>
+  <p>Well, we love you. We really will miss you.</p>
+  </div>
+</div>
